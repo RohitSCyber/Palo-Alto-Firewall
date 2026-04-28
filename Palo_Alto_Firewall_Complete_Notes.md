@@ -1,6 +1,5 @@
 # Palo Alto Networks Firewall — Complete Training Notes
-> Structured for 25-video lecture series | GitHub Repository Edition  
-> Suitable for PCNSA / PCNSE exam preparation and hands-on lab learning
+
 
 ---
 
